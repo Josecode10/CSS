@@ -1,0 +1,55 @@
+*
+{
+  background-color: brown;
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+
+.fondo
+{
+  background-color: blue;
+}
+
+body
+{
+  background-color: aqua;
+  height: 100vh;
+}
+
+#parrafo {
+font-size: 50px;
+}
+
+[href]
+{
+  text-decoration: none;
+  font-size: 40px;
+  color: black;
+}
+
+[href="https://oferta.senasofiaplus.edu.co/sofia-oferta/"]
+{
+  color: red;
+}
+
+input
+{
+  height: 60px;
+  width: 100;
+}
+
+[type="text"]
+{
+  background-color: blueviolet;
+}
+[type="email"]
+{
+  background-color: antiquewhite;
+}
+[type="number"]
+{
+  background-color: chartreuse;
+}
+
+
